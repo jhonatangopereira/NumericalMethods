@@ -9,7 +9,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/JhonatanGuilherme/NumericalMethods">
   
-  <a href="https://github.com/JhonatanGuilherme/Learning-Cpp/commits/master">
+  <a href="https://github.com/JhonatanGuilherme/NumericalMethods/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JhonatanGuilherme/NumericalMethods">
   </a>
   
