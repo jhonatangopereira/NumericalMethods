@@ -40,7 +40,10 @@
 As seguintes ferramentas foram usadas:
 
 - **[Anaconda](https://www.anaconda.com/)**
+- **[matplotlib](https://matplotlib.org/)**
+- **[NumPy](https://numpy.org/)**
 - **[Python3](https://www.python.org/)**
+- **[scikit-learn](https://scikit-learn.org/stable/index.html)**
 - **[VS Code](https://code.visualstudio.com/)**
 
 ## **📑 Licença**
