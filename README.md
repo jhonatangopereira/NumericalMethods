@@ -1,5 +1,5 @@
 <h1 align="center">
-    Numerical Methods
+    <img alt="numerical_methods_gif" src="./numerical_methods.gif">
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/JhonatanGuilherme/NumericalMethods">
   
-  <a href="https://github.com/JhonatanGuilherme/NumericalMethods/commits/master">
+  <a href="https://github.com/JhonatanGuilherme/NumericalMethods/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JhonatanGuilherme/NumericalMethods">
   </a>
   
@@ -18,26 +18,18 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#computer-conceitos-gerais">Conceitos</a>&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;
-  <a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;
-  <a href="#bookmark_tabs-licença">Licença</a>
-</p>
+> Reviews of classes and codes made during the course of Numerical Methods.
 
-## 
+## **💻 Concepts studied**
 
-> Revisões de aulas e códigos feitos durante a disciplina de Métodos Numéricos.
+- [X] Introduction to Numpy library
+- [X] Error handling
+- [X] Bissection method
+- [X] Open methods - fixed point method, Newton-Raphson method e secant method
 
-## **💻 Conceitos Gerais**
+## **🛠️ Technologies used**
 
-- [X] Introdução a biblioteca Numpy
-- [X] Tratamento de Erros
-- [X] Método da Bisseção
-- [X] Métodos abertos - Método do ponto fixo, método de Newton-Raphson e método da secante
-
-## **🛠️ Tecnologias utilizadas**
-
-As seguintes ferramentas foram usadas:
+The following technologies were used:
 
 - **[Anaconda](https://www.anaconda.com/)**
 - **[matplotlib](https://matplotlib.org/)**
@@ -46,8 +38,8 @@ As seguintes ferramentas foram usadas:
 - **[scikit-learn](https://scikit-learn.org/stable/index.html)**
 - **[VS Code](https://code.visualstudio.com/)**
 
-## **📑 Licença**
+## **📑 License**
 
-Este projeto está sob a licença MIT. Vejo o arquivo **[LICENSE](https://github.com/JhonatanGuilherme/NumericalMethods/blob/master/LICENSE)** para mais detalhes.
+This project is under the MIT license. See the **[LICENSE](./LICENSE)** file for more details.
 
-Feito com 🧡 por **[Jhonatan Oliveira](https://github.com/JhonatanGuilherme)**.
+Made with 🧡 by **[Jhonatan Oliveira](https://github.com/JhonatanGuilherme)**.
